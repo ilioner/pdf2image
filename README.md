@@ -45,3 +45,8 @@ wand：是Imagemagick的Python接口
 	pip3 install wand
 
 
+### 安装文档参考
+
+http://blog.csdn.net/wwj_748/article/details/78135879?utm_source=tuicool&utm_medium=referral
+
+
