@@ -23,6 +23,6 @@ def pdf2image(filename="",format="jpeg",width=100,height=100,quality=100,outdir=
                 img_to_save.save(filename= ftemp)
 
 
-pdf2image(filename="image.pdf",format="jpeg",width=2400,height=3324,quality=300,outdir="image",filename_format="img_")
+#pdf2image(filename="image.pdf",format="jpeg",width=2400,height=3324,quality=300,outdir="image",filename_format="img_")
 
 
